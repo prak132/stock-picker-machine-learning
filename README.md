@@ -1,5 +1,5 @@
 # stock-picker-machine-learning
-
+* Made with [Dycoke](https://github.com/dycoke)
 ### Where can I run it?
 * On [google colab](https://colab.research.google.com/drive/1R4l_DjHPPNvUS7OHZ1hU1AbboQ6pB4KQ?usp=sharing)
 
